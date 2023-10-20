@@ -10,9 +10,13 @@ Creating the best prediction model to predict “Churn Status in Banking”.
 
 *** Scoring ***
 ● Getting Best Accuracy > 86% : 100
+
 ● Getting Best Accuracy 85% - 86%: 85
+
 ● Getting Best Accuracy 84% - 85%: 70
+
 ● Getting Best Accuracy <84% : 55
+
 ● Any error in the code will become 0.
 
 
@@ -34,6 +38,7 @@ This problem description is the same as Task 3. But there are some technical cha
 1. Compare 3 different configurations while your model is wider/deeper. Show and explain the performance result.
 2. Compare 3 configurations for different Loss Function. Show and explain your performance result.
 3. Compare 3 configurations for the activation function. Show and explain your performance result.
+
 
 ### Chapter 3 overview:
 
