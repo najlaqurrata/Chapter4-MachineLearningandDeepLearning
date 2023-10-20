@@ -8,7 +8,8 @@ Participants can perform Data Segmentation with Clustering method, participants 
 ### Task 1
 Creating the best prediction model to predict “Churn Status in Banking”.
 
-*** Scoring ***
+#### Scoring
+
 ● Getting Best Accuracy > 86% : 100
 
 ● Getting Best Accuracy 85% - 86%: 85
@@ -23,11 +24,16 @@ Creating the best prediction model to predict “Churn Status in Banking”.
 ### Task 2
 Creating the best number of clusters for “Random Points”.
 
-*** Scoring ***
+#### Scoring
+
 ● Getting Best Silhouette Score > 70: 100
+
 ● Getting Best Silhouette Score 65-70: 85
+
 ● Getting Best Silhouette Score 60-65: 70
+
 ● Getting Best Silhouette Score <65: 55
+
 ● Any error in the code will become 0.
 
 ### Task 3
@@ -35,12 +41,15 @@ Deep Learning for MNIST Handwritten Digit Classification using PyTorch. This is 
 
 ### Bonus Task
 This problem description is the same as Task 3. But there are some technical challenges that you have to choose one.
+
 1. Compare 3 different configurations while your model is wider/deeper. Show and explain the performance result.
+   
 2. Compare 3 configurations for different Loss Function. Show and explain your performance result.
+   
 3. Compare 3 configurations for the activation function. Show and explain your performance result.
 
 
-### Chapter 3 overview:
+## Chapter 3 overview:
 
 Task 1: Preprocessed, cleaned, and correlated data. Trained three machine learning models (Decision Tree, Random Forest, Support Vector Machine (SVM)) to compare their accuracy.
 
